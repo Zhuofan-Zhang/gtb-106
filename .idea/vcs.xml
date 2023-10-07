@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bronze-java-level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bronze-java-level-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bronze-java-level-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bronze-java-sim-level-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bronze-js-level-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bronze-js-sim-level-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-bowling-rolls-printer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-fizz-buzz-easy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-guess-number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-java-multiply-table" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-java-poker-hands" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-java-potter-seller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-js-poker-hands" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-js-potter-seller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dojo-mars-probe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/empty-java-with-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/empty-js-with-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gold-java-level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gold-java-level-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gold-js-level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gtb-students-init" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-language-basic-part-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-language-basic-part-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-language-basic-self-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-language-extend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-todo-list-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js-language-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/master-java-level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/silver-java-level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/silver-java-level-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/silver-java-level-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/silver-js-level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/silver-js-level-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/silver-js-level-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sql-query-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stone-java-env-verify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stone-js-env-verify" vcs="Git" />
+  </component>
+</project>
